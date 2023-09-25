@@ -1,1 +1,1 @@
-# Avatar-Generating-APP
+# Avatar_Generator
